@@ -25,4 +25,4 @@ Follow these steps to get started with the Nexus Audit Tool:
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/sajdaabid/Nexus-Audit-Tool.git](https://github.com/sajdaabid/Nexus-Audit-Tool.git)
+   git clone https://github.com/sajdaabid/Nexus-Audit-Tool.git
